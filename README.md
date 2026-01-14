@@ -21,7 +21,7 @@ Build Tool: npm
 
 Version Control: Git & GitHub
 
-✨ Features
+✨ Features:-
 
 Component-based React architecture
 
