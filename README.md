@@ -86,7 +86,7 @@ Remove items from the cart
 
 View real-time updates of subtotal, tax, shipping, and total cost
 
-📚 Learning Outcomes
+📚 Learning Outcomes:-
 
 Practical understanding of React components
 
@@ -98,6 +98,6 @@ Improved project structuring and code organization
 
 Experience with modern frontend workflows
 
-📄 License
+📄 License:-
 
 This project is created for educational purposes as part of frontend development practice.
