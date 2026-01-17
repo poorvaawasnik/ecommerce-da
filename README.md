@@ -37,7 +37,7 @@ Clean and scalable folder structure
 
 Ready for backend or API integration
 
-📂 Project Structure
+📂 Project Structure:-
 week5-ecommerce-frontend/
 │── src/
 │   ├── components/
