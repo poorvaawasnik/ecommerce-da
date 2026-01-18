@@ -57,7 +57,7 @@ week5-ecommerce-frontend/
 
 ⚙️ Installation & Setup
 
-Clone the repository:
+Clone the repository:-
 
 git clone <repository-url>
 
