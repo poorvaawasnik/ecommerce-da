@@ -8,7 +8,7 @@ This project is a modern and responsive E-Commerce Frontend Application develope
 The application simulates core e-commerce functionality including a shopping cart system with real-time price calculations.
 
 🧑‍💻 Tech Stack:-
-
+::::
 Frontend Framework: React (ES6+)
 
 State Management: Redux Toolkit
